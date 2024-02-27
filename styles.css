@@ -1,0 +1,194 @@
+@import url("fonts/atyptext/stylesheet.css")
+  
+@font-face {
+    font-family: 'Atyp Text';
+    src: url('AtypText-Bold.eot');
+    src: local('Atyp Text Bold'), local('AtypText-Bold'),
+        url('AtypText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AtypText-Bold.woff2') format('woff2'),
+        url('AtypText-Bold.woff') format('woff'),
+        url('AtypText-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+  width: 100%;
+  max-width: 1000px;
+  font-family: 'Atyp Text', sans-serif;
+  font-style: normal;
+  text-align: left;
+  margin-bottom: 69px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+
+p {
+  padding-left: 44px;
+  }
+
+ul{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+li{
+    padding-left: 0;
+}
+
+.header {
+   position: relative;
+   color: white;
+   font-weight: bold;
+}
+
+.name {position: absolute;
+              font-size: 35.96px;
+              font-family: Caveat;
+              padding-left: 44px;
+              padding-top: 15px;
+  
+}
+
+.logo {position: absolute;
+       padding-left: 128px;
+       padding-top: 15px;
+}
+
+
+.menu_item {
+         font-size: 15.38px;
+         font-family: Arial; 
+}
+
+.menu_list {
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+}
+
+.menu_link_one {
+  position: absolute;
+  padding-left: 723px;
+  padding-top: 32px;
+  text-decoration: underline;
+}
+
+.menu_link_two {position: absolute;
+       padding-left: 829.17px;
+       padding-top: 32px;
+       text-decoration: underline;
+}
+.menu_link_three {position: absolute;
+       padding-left: 909.09px;
+       padding-top: 32px;
+       text-decoration: underline;
+}
+
+h1 {    position: absolute;
+        font-size: 67.93px;
+        padding-left: 44px;
+        padding-top: 160px;
+        width: 682.32px;
+        line-height: 63.9px;
+}
+
+.lead {    font-size: 27px;
+            width: 915px;
+            line-height: 29px;
+            font-family: 'Atyp Text';
+            font-weight: 500;
+            font-style: normal;
+            margin-top: 21px;
+}
+
+.collage {
+  display: inline;
+}
+
+.main_photo {
+  float: left;
+  margin-left: 44px;
+  margin-top: 30px;
+  width: 548.48px;
+  height: 692px;
+}
+
+.top_photo {
+  float: right;
+  padding-right: 60px;
+  width: 328.85px; 
+  height: 335.88px;
+  margin-top: 30px;
+}
+
+.bottom_photo {
+  float: right;
+  padding-right: 60px;
+  padding-top: 20px;
+  width: 328.85px; 
+  height: 335.88px;
+}
+
+.product_name {clear: both;
+padding-top: 19px;
+font-size: 27px;
+}
+
+.product_price {
+  color: #BC0000;
+  margin-top: -30px;
+  font-size: 26px;
+    font-family: 'Atyp Text';
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.product_description{
+  width: 557px;
+  line-height: 23px;
+  padding-top: 6px;
+    font-family: 'Atyp Text';
+    font-weight: 500;
+    font-style: normal;
+  font-size: 19.5px;
+}
+
+.footer {
+ display: flex;
+ padding-top: 80px;
+ font-family: Arial;
+ font-size: 16px;
+}
+
+.footer_address {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 3px;
+  padding-left: 44px;
+  width: 236px;
+  line-height: 20px;  
+}
+
+.bottom_menu_list {
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex; 
+    padding-left: 197px;
+}
+
+.bottom_menu_item{
+  margin-right: 10px;
+  padding-left: 52px;
+  text-decoration: underline;
+  color: #00798A;
+  margin-top: 5px;
+}
+
+.social_network {
+  margin-top: -5px;
+  margin-left: 50px;
+  margin-right: -37px;
+}
