@@ -1,16 +1,14 @@
-@import url("fonts/atyptext/stylesheet.css")
-  
 
     @font-face {
       font-family: 'Atyp Text';
-      src: url('./AtypText-bold.woff2') format('woff2');
+      src: url('AtypText-Bold.woff2') format('woff2');
       font-weight: bold;
       font-style: normal;
     }
 
 @font-face {
       font-family: 'Atyp Text';
-      src: url('./AtypText-Semibold.woff2') format('woff2');
+      src: url('AtypText-Semibold.woff2') format('woff2');
       font-weight: 600;
       font-style: normal;
     }
@@ -18,7 +16,7 @@
 
 @font-face {
       font-family: 'Atyp Text';
-      src: url('./AtypText-Medium.woff2') format('woff2');
+      src: url('AtypText-Medium.woff2') format('woff2');
       font-weight: 500;
       font-style: normal;
     }
