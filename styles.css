@@ -100,6 +100,8 @@ h1 {    position: absolute;
         font-size: 67.93px;
         left: 44px;
         bottom: 34px;
+        margin: 0;
+        bottom: 0;
         width: 682.32px;
         line-height: 63.9px;
 }
