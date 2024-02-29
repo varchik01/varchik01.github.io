@@ -153,18 +153,18 @@ font-size: 27px;
   color: #BC0000;
   margin-top: -30px;
   font-size: 26px;
-    font-family: 'Atyp Text';
-    font-weight: 600;
-    font-style: normal;
+  font-family: 'Atyp Text';
+  font-weight: 600;
+  font-style: normal;
   }
 
 .product_description{
   width: 557px;
   line-height: 23px;
   padding-top: 6px;
-    font-family: 'Atyp Text';
-    font-weight: 500;
-    font-style: normal;
+  font-family: 'Atyp Text';
+  font-weight: 500;
+  font-style: normal;
   font-size: 20px;
 }
 
