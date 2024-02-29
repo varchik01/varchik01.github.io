@@ -99,7 +99,7 @@ li{
 h1 {    position: absolute;
         font-size: 67.93px;
         left: 44px;
-        top: 190px;
+        bottom: 34px;
         width: 682.32px;
         line-height: 63.9px;
 }
@@ -110,6 +110,7 @@ h1 {    position: absolute;
             font-family: 'Atyp Text';
             font-weight: 500;
             font-style: normal;
+            margin-top: 23px;
             
 }
 
