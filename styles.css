@@ -98,8 +98,10 @@ li{
 
 h1 {    position: absolute;
         font-size: 67.93px;
-        padding-left: 44px;
-        padding-top: 160px;
+        left: 44px;
+        bottom: 25px;
+        padding: 0;
+        margin: 0;
         width: 682.32px;
         line-height: 63.9px;
 }
