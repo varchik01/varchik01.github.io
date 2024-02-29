@@ -104,7 +104,7 @@ h1 {    position: absolute;
         line-height: 63.9px;
 }
 
-.lead {    font-size: 27px;
+.lead {    font-size: 28px;
             width: 915px;
             line-height: 29px;
             font-family: 'Atyp Text';
@@ -162,7 +162,7 @@ font-size: 27px;
     font-family: 'Atyp Text';
     font-weight: 500;
     font-style: normal;
-  font-size: 19.5px;
+  font-size: 20px;
 }
 
 .footer {
